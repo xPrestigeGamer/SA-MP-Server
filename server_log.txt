@@ -1,0 +1,59 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:15:43] filterscripts = ""  (string)
+[20:15:43] 
+[20:15:43] Server Plugins
+[20:15:43] --------------
+[20:15:43]  Loaded 0 plugins.
+
+[20:15:43] 
+[20:15:43] Filterscripts
+[20:15:43] ---------------
+[20:15:43]   Loaded 0 filterscripts.
+
+[20:15:43] 
+----------------------------------
+[20:15:43]  Kevin is ne MTA fag
+[20:15:43] ----------------------------------
+
+[20:15:43] Number of vehicle models: 0
+Console input: stop
+Console input: gmx
+[20:34:28] 
+----------------------------------
+[20:34:28]  Kevin is ne MTA fag
+[20:34:28] ----------------------------------
+
+[20:34:28] Number of vehicle models: 0
+Console input: cmdlist
+[20:34:42] Console Commands:
+[20:34:42]   echo
+[20:34:42]   exec
+[20:34:42]   cmdlist
+[20:34:42]   varlist
+[20:34:42]   exit
+[20:34:42]   kick
+[20:34:42]   ban
+[20:34:42]   gmx
+[20:34:42]   changemode
+[20:34:42]   say
+[20:34:42]   reloadbans
+[20:34:42]   reloadlog
+[20:34:42]   players
+[20:34:42]   banip
+[20:34:42]   unbanip
+[20:34:42]   gravity
+[20:34:42]   weather
+[20:34:42]   loadfs
+[20:34:42]   unloadfs
+[20:34:42]   reloadfs
+[20:34:42] 
+Console input: exit
+[20:34:47] --- Server Shutting Down.
